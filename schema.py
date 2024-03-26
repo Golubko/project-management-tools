@@ -1,0 +1,1 @@
+linked_list.delete_node(3)
